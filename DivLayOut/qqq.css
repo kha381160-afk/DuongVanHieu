@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-align: center;
+}
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-align: center;
+}
+#container {
+	color: #003399;
+	background-color: #666666;
+	margin: auto;
+	width: 760px;
+	border: 2px solid #336633;
+}
+#header {
+	background-image: url(images/header01.jpg);
+	height: 95px;
+}
+#header_quangcao {
+	float: right;
+	height: 70px;
+	width: 350px;
+}
+#homnay {
+	font-weight: bold;
+	color: #99ff00;
+	text-align: right;
+	float: right;
+	height: 25px;
+	width: 350px;
+	padding-top: 5px;
+}
+#header_left {
+	float: left;
+	height: auto;
+	width: 400px;
+}
+#menu {
+	background-color: #999999;
+	height: 30px;
+}
+#main {
+}
+#thanhvien {
+	background-color: #ece9d8;
+	border: 2px ridge #cc9933;
+	font-weight: bold;
+	color: #ff0e99;
+}
+
+#leftmain {
+	float: right;
+	width: 150px;
+}
+#dongho {
+	clear: right;
+	width: 150px;
+}
+
+#thongbao {
+	background-color: #cccccc;
+	height: 25px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+#content {
+	color: #ffff66;
+	background-color: #999999;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+#footer {
+	font-size: 18px;
+	color: #336699;
+	background-image: url(images/footer_bg.gif);
+	clear: both;
+	height: 90px;
+}
+#footer {
+	font-size: 18px;
+	color: #336699;
+	background-image: url(images/footer_bg.gif);
+	clear: both;
+	height: 90px;
+}
